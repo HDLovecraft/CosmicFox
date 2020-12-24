@@ -1,0 +1,19 @@
+{
+  "name": "cosmicfox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tailwind": "npx tailwindcss-cli@latest build ./src/tailwind.css -o ./dist/tailwind.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HDLovecraft/CosmicFox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HDLovecraft/CosmicFox/issues"
+  },
+  "homepage": "https://github.com/HDLovecraft/CosmicFox#readme"
+}
